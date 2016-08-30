@@ -1,0 +1,22 @@
+package ca.ubc.cs.cpsc210.meetup.model;
+
+import java.util.SortedSet;
+
+/**
+ * Created by Alan on 4/3/2015.
+ */
+public class SchedulePlot {
+
+    private SortedSet<Section> sections;
+    private String name;
+    private String colourOfLine;
+    private int iconToUseForBuilding;
+
+    public SchedulePlot(SortedSet<Section> sections, String name, String colourOfLine,
+                        int iconToUseForBuilding) {
+        this.sections = sections;
+        this.name = name;
+        this.colourOfLine = colourOfLine;
+        this.iconToUseForBuilding = iconToUseForBuilding;
+    }
+}

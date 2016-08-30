@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alan\Desktop\Meetup\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Alan\Desktop\Meetup\app\build\intermediates\pre-dexed\debug\classes-e84c0d444e8fa29593694a0de4fd11b5163be9d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alan\Desktop\Meetup\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Alan\Desktop\Meetup\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0957b43a919d5ed459aa103d6d21ea9edfbfefcf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alan\Desktop\Meetup\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Alan\Desktop\Meetup\app\build\intermediates\pre-dexed\debug\classes-aa5c4a8324deda0e9f9639ce3dfbf0cd8becddaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alan\.gradle\caches\modules-2\files-2.1\org.osmdroid\osmdroid-android\4.2\f3a0c73a9ed04a5d0959789c53da9f08462bfcc2\osmdroid-android-4.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3a0c73a9ed04a5d0959789c53da9f08462bfcc2">
+        <dex dex="C:\Users\Alan\Desktop\Meetup\app\build\intermediates\pre-dexed\debug\osmdroid-android-4.2-e5394bd7ed7b4affea6e44fc8c410d83d8a38572.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alan\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-simple\1.6.1\58e59bfb3e247097b8122243b3bfe0049c8cfae8\slf4j-simple-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58e59bfb3e247097b8122243b3bfe0049c8cfae8">
+        <dex dex="C:\Users\Alan\Desktop\Meetup\app\build\intermediates\pre-dexed\debug\slf4j-simple-1.6.1-e2f0264764c880221601805e98f4f6f9ab5cd69d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alan\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.6.1\6f3b8a24bf970f17289b234284c94f43eb42f0e4\slf4j-api-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6f3b8a24bf970f17289b234284c94f43eb42f0e4">
+        <dex dex="C:\Users\Alan\Desktop\Meetup\app\build\intermediates\pre-dexed\debug\slf4j-api-1.6.1-3a4045619d96943f3751c11bd06c91bc8897a387.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alan\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Alan\Desktop\Meetup\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-f6edf6877a2f80b93a898aa52f1fd93388538187.jar" />
+    </item>
+
+</items>
